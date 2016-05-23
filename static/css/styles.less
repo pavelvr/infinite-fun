@@ -1,0 +1,144 @@
+@import "normalize.css";
+
+@mainBackColor: #222;
+@textColor: #cacaca;
+@brightBlue: #3aaaf1;
+@logoFunGray: #505050;
+@logoParensGray: #303030;
+
+body {
+  background-color: @mainBackColor;
+  color: @textColor;
+  margin-left: 185px;
+  padding-left: 10px;
+  padding-bottom: 15px;
+  width: 605px;
+  border-left: 1px solid @logoParensGray;
+}
+
+header,
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 170px;
+}
+
+nav {
+  top: 80px;
+}
+
+header h1 {
+  height: 80px;
+  background: url('images/infinite_fun.png') right center no-repeat;
+  color: transparent;
+  line-height: 0.1em;
+  font-size: 0.1em;
+}
+
+h2.author { font-weight:normal; display: none; }
+h2.author:before { content: 'By: '; font-style: italic; }
+h3.date { font-weight:normal; font-family: georgia; display: none; }
+
+h2 {
+  font-size: 1.3em;
+  color: lighten(@logoFunGray, 10%);
+}
+
+h3,
+h4 {
+  border-bottom: 1px solid @logoParensGray;
+}
+
+h5 {
+  margin: -12px 0 15px 0;
+}
+
+h5.author:before {
+  content: 'By: ';
+  font-style: italic;
+  color: @logoFunGray;
+}
+
+h5.date:before {
+  content: 'Date: ';
+  font-style: italic;
+  color: @logoFunGray;
+}
+
+
+p {
+  text-align: justify;
+  line-height: 1.5em;
+}
+
+body>ul {
+  list-style-type: square;
+}
+
+div.sourceCode {
+  font-size: .95em;
+}
+
+pre.sourceCode {
+  padding: 4px;
+}
+
+a,
+a:hover,
+a:visited,
+a:active {
+  font-family: Arial, Helvetica, sans-serif; 
+  color: @brightBlue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+nav ul {
+  list-style-type: none;
+  margin-left: -25px;
+  margin-top: 5px;
+}
+
+nav ul li {
+  margin-bottom: 5px;
+}
+
+nav ul li a {
+  font-variant: all-small-caps;
+  display: block;
+  text-align: right;
+  padding-right: 10px;
+}
+
+nav ul li a:hover {
+  text-decoration: none;
+  color: lighten(@logoFunGray, 10%);
+}
+
+nav hr {
+  margin: 0 5px;
+  border: 0;
+  border-top: 1px solid @logoParensGray;
+}
+
+nav p {
+  text-align: right;
+  font-size: .92em;
+  padding-right: 10px;
+  line-height: 1.2em;
+}
+
+span.social-text-id {
+  color: lighten(@logoParensGray, 5%);
+  display: inline-block;
+  width: 65px;
+  text-align: left;
+}
+
+p#footer {
+  font-size: .85em;
+}
