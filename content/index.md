@@ -4,10 +4,17 @@ keywords: infinite fun, code, programming
 
 ---
 
+## Epic Fail: Not Taking Good Care of Your Code
+##### 2016.05.23 {.date}
+
+[Read full post...](posts/epic-fail-not-taking-good-care-of-your-code.md)
+
+---
+
 ## Infinite Fun _première_
 ##### 2016.05.22 {.date}
 
-For years I wanted to create my personal blog/website, so I could share my thougts, ideas, code, questions with everyone out there with similar tastes and interests in technology. Sometimes I didn't find the time, others the means (I only have Internet at job, not at home), or didn't find anything worth of sharing (at least IMHO) in my stuff.
+For years I wanted to create my personal blog/website, so I could share my thougts, ideas, code, questions with everyone out there with similar tastes and interests in technology. Sometimes I didn't find the time, others the means (I only have Internet at work, not at home), or didn't find anything worth of sharing (at least IMHO) in my stuff.
 
 The real thing is I don't want to delay it anymore, so, here it is.
 
