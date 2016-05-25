@@ -6,5 +6,5 @@ keywords: projects, code, repositories, scripts, programming
 
 ## Projects &amp; Scripts
 
-- [marksite.sh](marksite.md): Pandoc + MarkDown based static website generator
+- [marksite.sh](marksite.sh.md): Pandoc + MarkDown based static website generator
 
