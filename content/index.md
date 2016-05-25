@@ -22,7 +22,7 @@ Not taking good care of your code could lead, sometimes, to bad and unexpected c
 ## Infinite Fun _première_
 ##### 2016.05.22 {.date}
 
-For years I wanted to create my personal blog/website, so I could share my thougts, ideas, code, questions with everyone out there with similar tastes and interests in technology. Sometimes I didn't find the time, others the means (I only have Internet at work, not at home), or didn't find anything worth of sharing (at least IMHO) in my stuff.
+For years I wanted to create my personal blog/website, so I could share my thoughts, ideas, code, questions with everyone out there with similar tastes and interests in technology. Sometimes I didn't find the time, others the means (I only have Internet at work, not at home), or didn't find anything worth of sharing (at least IMHO) in my stuff.
 
 The real thing is I don't want to delay it anymore, so, here it is.
 
