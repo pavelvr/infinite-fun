@@ -4,10 +4,18 @@ keywords: infinite fun, code, programming
 
 ---
 
-## Epic Fail: Not Taking Good Care of Your Code
+## <span>[Posts](posts/index.md) &raquo;</span> Epic Fail: Not Taking Good Care of Your Code
 ##### 2016.05.23 {.date}
 
+Not taking good care of your code could lead, sometimes, to bad and unexpected consequences.
 [Read full post...](posts/epic-fail-not-taking-good-care-of-your-code.md)
+
+---
+
+## <span>[Projects](projects/index.md) &raquo;</span> marksite.sh
+##### 2016.05.22 {.date}
+
+[marksite.sh](projects/marksite.sh.md) is a static websites generator written in bash, and it is what's used to generate this website.
 
 ---
 

@@ -47,6 +47,10 @@ h2 {
   font-family: serif;
 }
 
+h2 span {
+  font-size: .7em;
+}
+
 h3,
 h4 {
   border-bottom: 1px solid @logoParensGray;
@@ -64,15 +68,21 @@ h5.author:before {
 }
 
 h5.date:before {
-  content: 'Date: ';
+  content: 'Published: ';
+  font-style: italic;
+  color: @logoFunGray;
+}
+
+h5.last-update:before {
+  content: 'Last Update: ';
   font-style: italic;
   color: @logoFunGray;
 }
 
 hr {
-  margin: 10px 20% 20px 20%;
+  margin: 20px 20% 20px 20%;
   border: 0;
-  border-top: 1px dashed @logoParensGray;
+  border-top: 1px dashed @logoFunGray;
 }
 
 p {
