@@ -4,10 +4,10 @@ keywords: infinite fun, code, programming
 
 ---
 
-## Infinite Fun has an RSS 2,0 feed ;-)
+## Infinite Fun has an RSS 2.0 feed ;-)
 ##### 2016.05.25 {.date}
 
-Now **Infinite Fun** has it's own [RSS 2.0 feed](rss.xml), yeah, it is handwrited, simple, but it does the work.
+Now **Infinite Fun** has it's own [RSS 2.0 feed](rss.xml), yeah, it is handwritten, simple, but it does the work.
 
 ---
 
