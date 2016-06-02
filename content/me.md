@@ -8,11 +8,11 @@ keywords: who am i, about me, cv, curriculum vitae
 
 My name is Pável Varela Rodríguez. Born, raised, and living in Havana, Cuba.
 
-I have interest in a wide range of things: programming and programming languages, minimalism, anatomy, psicology, human behavior, photography, FLOSS (free libre open source software).
+I have interest in a wide range of things: programming and programming languages, minimalism, music, anatomy, psicology, human behavior, photography, FLOSS (free libre open source software).
 
 I'm mainly a self-taught person. When I was 13 years old my father suggested me to include, as part of a project for the cuban equivalent of a Children Science Fair, a little application and a database to support the data of that application. He introduced me to dBase IV (a.k.a FoxPlus), and that was it. From that moment I've been in a constant search for knowledge related to computers and programming.
 
-Minimalism is something I love in programming and software. I'm always amazed by things like [Lua](http://www.lua.org/), [SQLite](http://www.sqlite.org/), [Dapper](https://github.com/SamSaffron/dapper-dot-net/), [LINQ](http://msdn.microsoft.com/en-us/netframework/aa904594.aspx), [MarkDown](http://daringfireball.net/), echinus (a tiling windows manager), [LinqPad](http://www.linqpad.net/) (why not?), LISP (and friends), Aphid (an embedded/standalone programming language for .NET). Those, IMHO, are good examples of minimalist, simple, yet pretty powerfull pieces of software brought to us by really smart people.
+Minimalism is something I love in programming and software. I'm always amazed by things like [Lua](http://www.lua.org/), [SQLite](http://www.sqlite.org/), [Dapper](https://github.com/SamSaffron/dapper-dot-net/), [LINQ](http://msdn.microsoft.com/en-us/netframework/aa904594.aspx), [MarkDown](http://daringfireball.net/), [echinus](http://plhk.ru/) (a tiling windows manager), [LinqPad](http://www.linqpad.net/) (why not?), LISP (and friends), [Aphid](http://autosectools.com/Aphid-Programming-Language) (an embedded/standalone programming language for .NET). Those, IMHO, are good examples of minimalist, simple, yet pretty powerfull pieces of software brought to us by really smart people.
 
 Both my parents (and also my entire family) gave me free will and total support in my endless thirst for knowledge. I'm lucky.
 
