@@ -10,7 +10,7 @@
     <pubDate>Wed, 25 May 2016 16:34:44 -0500</pubDate>
     <webMaster>neonskull@gmail.com</webMaster>
     <item>
-      <title>Added custom header/footer support to marksite.sh</title>
+      <title>marksite.sh: Custom header/footer support</title>
       <description>
 	  	<![CDATA[
 			<a href="http://pavelvr.github.io/projects/marksite.sh.html">marksite.sh</a> supports customized (and optional) header/footer simply creating the correspondent MarkDown files (<code>header.md</code>/<code>footer.md</code>).

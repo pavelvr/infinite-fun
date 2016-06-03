@@ -4,7 +4,7 @@ keywords: infinite fun, code, programming
 
 ---
 
-## Added custom header/footer support to marksite.sh
+## marksite.sh: Custom header/footer support
 ##### 2016.06.02 {.date}
 
 [marksite.sh](projects/marksite.sh.md) supports customized (and optional) header/footer simply creating the correspondent MarkDown files (`header.md`/`footer.md`).
