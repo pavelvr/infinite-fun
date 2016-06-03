@@ -4,6 +4,20 @@ keywords: infinite fun, code, programming
 
 ---
 
+## Added custom header/footer support to marksite.sh
+##### 2016.06.02 {.date}
+
+[marksite.sh](projects/marksite.sh.md) supports customized (and optional) header/footer simply creating the correspondent MarkDown files (`header.md`/`footer.md`).
+
+---
+
+## Infinite Fun goes responsive
+##### 2016.06.02 {.date}
+
+Updated stylesheet to define some simple responsiveness. Now **Infinite Fun** looks good and feels comfortable on devices with a small screen.
+
+---
+
 ## Infinite Fun has an RSS 2.0 feed ;-)
 ##### 2016.05.25 {.date}
 

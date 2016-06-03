@@ -18,6 +18,7 @@ Pandoc + MarkDown based static website generator.
 	- A simple CLI API, with only a few commands, trying to keep it simple
 	- MarkDown for the content
 	- Pandoc as MarkDown to HTML conversion engine, using pandoc's HTML5 template, or a custom template
+	- Custom Header/Footer
 	- LESS support
 	- In linux/unix, you should need only the main script (`marksite.sh`), and off course pandoc, and node and lessc (if you wanna use LESS for your stylesheets)
 	- (Re)generation of changed/added pages/stylesheets/other only, not the whole website

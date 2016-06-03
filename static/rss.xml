@@ -10,7 +10,27 @@
     <pubDate>Wed, 25 May 2016 16:34:44 -0500</pubDate>
     <webMaster>neonskull@gmail.com</webMaster>
     <item>
-      <title>Infinite Fun has an RSS 2,0 feed ;-)</title>
+      <title>Added custom header/footer support to marksite.sh</title>
+      <description>
+	  	<![CDATA[
+			<a href="http://pavelvr.github.io/projects/marksite.sh.html">marksite.sh</a> supports customized (and optional) header/footer simply creating the correspondent MarkDown files (<code>header.md</code>/<code>footer.md</code>).
+        ]]>
+	  </description>
+      <link>http://pavelvr.github.io/</link>
+      <pubDate>Thu, 2 Jun 2016 21:12:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Infinite Fun goes responsive</title>
+      <description>
+	  	<![CDATA[
+			Updated stylesheet to define some simple responsiveness. Now <strong>Infinite Fun</strong> looks good and feels comfortable on devices with a small screen.
+        ]]>
+	  </description>
+      <link>http://pavelvr.github.io/</link>
+      <pubDate>Thu, 2 Jun 2016 22:01:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Infinite Fun has an RSS 2.0 feed ;-)</title>
       <description>
 	  	<![CDATA[
 			Now Infinite Fun has it's own RSS 2.0 feed, yeah, it is handwrited, simple, but it does the work.
