@@ -2,3 +2,5 @@ www
 www/*
 .js-includes.html
 .menu.html
+.header.html
+.footer.html

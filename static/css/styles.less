@@ -11,13 +11,16 @@ body {
   color: @textColor;
   margin-left: 185px;
   padding-left: 10px;
+  padding-right: 10px;
   padding-bottom: 15px;
-  width: 605px;
+  max-width: 595px;
+  min-width: 360px;
   border-left: 1px solid @logoParensGray;
 }
 
 header,
-nav {
+nav,
+#footer {
   position: fixed;
   top: 0;
   left: 0;
@@ -137,26 +140,102 @@ nav ul li a:hover {
   color: lighten(@logoFunGray, 10%);
 }
 
-nav hr {
-  margin: 0 5px;
-  border: 0;
-  border-top: 1px solid @logoParensGray;
+#footer
+{
+  top: 200px;
+
+  hr {
+    margin: 0 5px;
+    border: 0;
+    border-top: 1px solid @logoParensGray;
+  }
+
+  p {
+    font-size: .92em;
+    padding-right: 10px;
+    line-height: 1.2em;
+    text-align: right;
+  }
+
+  span.social-text-id {
+    color: lighten(@logoParensGray, 10%);
+    display: inline-block;
+    width: 65px;
+    text-align: left;
+  }
+
+  p#copyright {
+    font-size: .85em;
+  }
 }
 
-nav p {
-  text-align: right;
-  font-size: .92em;
-  padding-right: 10px;
-  line-height: 1.2em;
-}
+@media (max-width: 600px) {
+  body {
+    margin-left: 0;
+    border: 0;
+  }
 
-span.social-text-id {
-  color: lighten(@logoParensGray, 5%);
-  display: inline-block;
-  width: 65px;
-  text-align: left;
-}
+  header,
+  nav,
+  #footer {
+    position: relative;
+    top: 0;
+    width: 100%;
+    border-bottom: 1px solid @logoParensGray;
+  }
 
-p#footer {
-  font-size: .85em;
+  header h1
+  {
+    background-position: center center;
+  }
+
+  hr {
+    margin: 20px 10% 20px 10%;
+  }
+
+  nav ul,
+  nav ul li,
+  nav ul li a  {
+    margin: 0;
+    height: 2em;
+  }
+
+  nav ul li {
+    float: left;
+    width: 24.5%;
+  }
+  
+  nav ul li a {
+    float: left;
+    text-align: center;
+    padding-right: 0;
+    width: 100%;
+    line-height: 1.8em;
+  }
+  
+  #footer {
+    border: 0;
+    border-top: 1px solid @logoParensGray;
+    margin-bottom: 15px;
+
+    hr 
+    {
+      display: none;
+    }
+
+    p 
+    {
+      width: 49%;
+      margin-top: 10px;
+      margin-right: 1%;
+      text-align: left;
+      float: left;
+      padding: 0;
+    }
+
+    p#copyright {
+      margin-right: 0;
+      text-align: right;
+    }
+  }
 }
