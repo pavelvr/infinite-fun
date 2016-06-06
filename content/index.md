@@ -4,6 +4,14 @@ keywords: infinite fun, code, programming
 
 ---
 
+## <span>[Posts](posts/index.md) &raquo;</span> A minimalist approach to jQuery
+##### 2016.06.05 {.date}
+
+jQuery is amazing but, do we really need it in every web project? There is a minimalist approach for almost everything we do.
+[Read full post...](posts/a-minimalist-approach-to-jquery.md)
+
+---
+
 ## marksite.sh: Custom header/footer support
 ##### 2016.06.02 {.date}
 

@@ -10,6 +10,16 @@
     <pubDate>Wed, 25 May 2016 16:34:44 -0500</pubDate>
     <webMaster>neonskull@gmail.com</webMaster>
     <item>
+      <title>A minimalist approach to jQuery</title>
+      <description>
+	  	<![CDATA[
+			jQuery is amazing but, do we really need it in every web project? There is a <a href="http://pavelvr.github.io/posts/a-minimalist-approach-to-jquery.html">minimalist approach</a> for almost everything we do.
+        ]]>
+	  </description>
+      <link>http://pavelvr.github.io/posts/a-minimalist-approach-to-jquery.html</link>
+      <pubDate>Sun, 5 Jun 2016 20:50:00 -0500</pubDate>
+    </item>
+    <item>
       <title>marksite.sh: Custom header/footer support</title>
       <description>
 	  	<![CDATA[
