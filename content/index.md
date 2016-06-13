@@ -4,6 +4,13 @@ keywords: infinite fun, code, programming
 
 ---
 
+## <span>[Projects](projects/index.md) &raquo;</span> lighttpd.js
+##### 2016.06.12 {.date}
+
+[lighttpd.js](projects/lighttpd.js.md) is a really simple web server written in JavaScript ([node.js](http://nodejs.org/)).
+
+---
+
 ## <span>[Posts](posts/index.md) &raquo;</span> A minimalist approach to jQuery
 ##### 2016.06.05 {.date}
 

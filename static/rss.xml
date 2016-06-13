@@ -10,6 +10,16 @@
     <pubDate>Wed, 25 May 2016 16:34:44 -0500</pubDate>
     <webMaster>neonskull@gmail.com</webMaster>
     <item>
+      <title>lighttpd.js: A really simple web server</title>
+      <description>
+	  	<![CDATA[
+			<a href="http://pavelvr.github.io/projects/lighttpd.js.html">lighttpd.js</a> is a really simple web server written in JavaScript (<a href="http://nodejs.org/">node.js</a>)
+        ]]>
+	  </description>
+      <link>http://pavelvr.github.io/projects/lighttpd.js.html</link>
+      <pubDate>Sun, 12 Jun 2016 22:12:00 -0500</pubDate>
+    </item>
+    <item>
       <title>A minimalist approach to jQuery</title>
       <description>
 	  	<![CDATA[
@@ -52,7 +62,7 @@
     <item>
       <title>Epic Fail: Not Taking Good Care of Your Code</title>
       <description>
-	  	<![CDATA[
+		<![CDATA[
 	  		Not taking good care of your code could lead, sometimes, to bad and unexpected consequences. <a href="http://pavelvr.github.io/posts/epic-fail-not-taking-good-care-of-your-code.html">Read full post...</a>
         ]]>
 	  </description>
@@ -60,7 +70,7 @@
       <pubDate>Sun, 23 May 2016 20:23:00 -0500</pubDate>
     </item>
     <item>
-      <title>Recommended Desktop Feed Reader Software</title>
+      <title>marksite.sh: A static websites generator written in bash</title>
       <description>
 	  	<![CDATA[
 			<a href="http://pavelvr.github.io/projects/marksite.sh.html">marksite.sh</a> is a static websites generator written in bash, and it is what's used to generate this website.
