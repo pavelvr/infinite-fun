@@ -7,8 +7,28 @@
     <copyright>CC BY-NC-SA 2016 Pável Varela Rodríguez</copyright>
     <language>en-us</language>
     <!--<lastBuildDate>Wed, 25 May 2016 16:15:44 -0500</lastBuildDate>-->
-    <pubDate>Wed, 25 May 2016 16:34:44 -0500</pubDate>
+    <pubDate>Wed, 3 Jul 2016 21:25:44 -0500</pubDate>
     <webMaster>neonskull@gmail.com</webMaster>
+    <item>
+      <title>mpd-client.sh: mpc wrapper + libnotify to control your music via command line or keyboard</title>
+      <description>
+	  	<![CDATA[
+			<a href="http://pavelvr.github.io/projects/mpd-client.sh.html">mpd-client.sh</a> is a simple mpc (Music Player Daemon's client) wrapper + libnotify to control your music via command line or keyboard shortcuts
+        ]]>
+	  </description>
+      <link>http://pavelvr.github.io/projects/mpd-client.sh.html</link>
+      <pubDate>Sun, 3 Jul 2016 21:24:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>bash-mixer.sh: Amixer wrapper + libnotify to control volume via command line or keyboard shortcuts</title>
+      <description>
+	  	<![CDATA[
+			<a href="http://pavelvr.github.io/projects/bash-mixer.sh.html">bash-mixer.sh</a> is a simple amixer wrapper + libnotify to control volume via command line or keyboard shortcuts
+        ]]>
+	  </description>
+      <link>http://pavelvr.github.io/projects/bash-mixer.sh.html</link>
+      <pubDate>Sun, 3 Jul 2016 21:22:00 -0500</pubDate>
+    </item>
     <item>
       <title>lighttpd.js: A really simple web server</title>
       <description>

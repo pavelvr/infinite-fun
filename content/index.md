@@ -4,6 +4,20 @@ keywords: infinite fun, code, programming
 
 ---
 
+## <span>[Projects](projects/index.md) &raquo;</span> mpd-client.sh
+##### 2016.07.03 {.date}
+
+[mpd-client.sh](projects/mpd-client.sh.md) is a simple mpc (Music Player Daemon's client) wrapper + libnotify to control your music via command line or keyboard shortcuts.
+
+---
+
+## <span>[Projects](projects/index.md) &raquo;</span> bash-mixer.sh
+##### 2016.07.03 {.date}
+
+[bash-mixer.sh](projects/bash-mixer.sh.md) is a simple amixer wrapper + libnotify to control volume via command line or keyboard shortcuts.
+
+---
+
 ## <span>[Projects](projects/index.md) &raquo;</span> lighttpd.js
 ##### 2016.06.12 {.date}
 
